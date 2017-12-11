@@ -1,0 +1,7 @@
+D:\Udemy C# Orientado a Objetos\Exe3\Exe3\bin\Debug\Exe3.exe.config
+D:\Udemy C# Orientado a Objetos\Exe3\Exe3\bin\Debug\Exe3.exe
+D:\Udemy C# Orientado a Objetos\Exe3\Exe3\bin\Debug\Exe3.pdb
+D:\Udemy C# Orientado a Objetos\Exe3\Exe3\obj\Debug\Exe3.csprojResolveAssemblyReference.cache
+D:\Udemy C# Orientado a Objetos\Exe3\Exe3\obj\Debug\Exe3.csproj.CoreCompileInputs.cache
+D:\Udemy C# Orientado a Objetos\Exe3\Exe3\obj\Debug\Exe3.exe
+D:\Udemy C# Orientado a Objetos\Exe3\Exe3\obj\Debug\Exe3.pdb
